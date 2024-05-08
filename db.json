@@ -2,25 +2,25 @@
   "Todo":[
 {
 "nazwaRzeczy":"Projekt z AD",
-"priorytet":"1",
+"priorytet":1,
 "data":"21-05-2024",
 "zrealizowano": 0
 },
 {
 "nazwaRzeczy":"Projekt z AM",
-"priorytet":"0",
+"priorytet":0,
 "data":"22-05-2024",
 "zrealizowano": 0
 },
 {
 "nazwaRzeczy":"Zjesc obiad",
-"priorytet":"2",
+"priorytet":2,
 "data":"08-05-2024",
 "zrealizowano": 0
 },
 {
 "nazwaRzeczy":"Wyspac sie",
-"priorytet":"2",
+"priorytet":2,
 "data":"07-05-2024",
 "zrealizowano": 1
 }
